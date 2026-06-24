@@ -1,0 +1,185 @@
+PRODUCT_CATEGORY,BRAND,REVIEW_COUNT,AVG_RATING
+Coffee,Breville,10439,4.13
+Coffee,Philips,8756,4.10
+Coffee,Delonghi,7890,4.17
+Coffee,Cuisinart,6822,3.91
+Coffee,Siemens,434,4.52
+Coffee,Jura,371,4.39
+Coffee,Krups,344,3.93
+Coffee,SAECO,195,3.52
+Corded,Dyson,7351,3.62
+Corded,Bissell,4038,3.94
+Corded,VAX,844,3.23
+Corded,Tineco,198,2.80
+Corded,Hoover,144,3.41
+Corded,Sebo,136,4.40
+Cordless,Dyson,3740,4.31
+Cordless,Bissell,3468,3.70
+Cordless,Black & Decker,2460,3.65
+Cordless,Tineco,1402,3.74
+Cordless,Einhell,579,3.18
+Cordless,Fanttik,451,3.16
+Cordless,Gtech,352,4.72
+Cordless,Rowenta,307,3.56
+Cordless,Levoit,294,4.45
+Cordless,Dreame,266,3.96
+Cordless,Bosch,253,3.56
+Cordless,Wolfbox,251,4.63
+Cordless,Hoto,203,4.22
+Cordless,VAX,202,4.27
+Cordless,Genius,181,3.34
+Cordless,JML,161,4.29
+Cordless,KMM,156,4.13
+Cordless,Dirt Devil,125,3.71
+Cordless,Beldray,110,4.25
+Cordless,Livington,105,3.82
+Floorcare,Bissell,5998,3.61
+Floorcare,Hoover,3752,4.17
+Floorcare,Tineco,3393,3.48
+Floorcare,Rowenta,1686,4.39
+Floorcare,Dreame,1674,3.77
+Floorcare,VAX,949,4.15
+Floorcare,Roborock,520,3.53
+Floorcare,McCulloch,500,3.00
+Floorcare,Tower,488,3.31
+Floorcare,Dirt Devil,472,3.07
+Floorcare,Dyson,452,3.64
+Floorcare,PurSteam,450,3.22
+Floorcare,Philips,425,3.90
+Floorcare,Schenley,233,3.54
+Floorcare,Cecotec,164,3.52
+Floorcare,Mova,163,4.11
+Floorcare,UWANT,117,4.29
+Floorcare,Dupray,102,3.89
+Frozen Treat Makers,Cuisinart,5661,4.60
+Frozen Treat Makers,KitchenAid,735,2.55
+Frozen Treat Makers,Hicozy,628,4.66
+Frozen Treat Makers,GreenPan,426,4.30
+Frozen Treat Makers,BKPPM,230,3.20
+Frozen Treat Makers,Inoviva,198,3.64
+Frozen Treat Makers,UJR,182,3.68
+Frozen Treat Makers,Fiii,181,3.91
+Frozen Treat Makers,Iceman,154,3.95
+Frozen Treat Makers,Chivalz,128,3.81
+Frozen Treat Makers,VEVOR,116,4.60
+Frozen Treat Makers,Gourmia,102,4.10
+Hair Care,Dyson,31357,4.40
+Hair Care,BaByliss,5891,3.79
+Hair Care,Revlon,4219,3.97
+Hair Care,T3,3422,4.41
+Hair Care,Bio Ionic,2899,4.21
+Hair Care,GHD,2469,4.12
+Hair Care,Conair,2098,3.38
+Hair Care,Hot Tools,1024,3.70
+Hair Care,Chi,802,3.34
+Hair Care,Drybar,511,3.23
+Hair Care,Bondi-Boost,380,4.04
+Hair Care,Tymo,357,3.03
+Hair Care,Remington,284,3.79
+Hair Care,InStyler,164,3.66
+Hair Care,GA.MA Italy Professional,130,3.07
+Home Environment,John Lewis,3471,4.91
+Home Environment,Honeywell,1860,3.03
+Home Environment,Dyson,1261,4.42
+Home Environment,Vornado,912,3.02
+Home Environment,Jisulife,735,3.95
+Home Environment,Levoit,726,3.30
+Home Environment,Dreo,655,3.20
+Home Environment,Venty,357,3.21
+Home Environment,Koonie,279,3.86
+Home Environment,Dr. Prepare,269,3.61
+Home Environment,Ausic,254,4.16
+Home Environment,Woozoo,187,3.95
+Home Environment,Better Homes & Gardens,173,3.62
+Home Environment,Holmes,159,2.99
+Home Environment,Amacool,152,3.76
+Home Environment,Canopy,150,3.91
+Home Environment,Comlife,115,4.43
+Home Environment,VIVOSUN,110,3.60
+Home Environment,Whatook,109,4.39
+Home Environment,Ryobi,108,3.89
+Indoor Heated,Breville,3125,4.22
+Indoor Heated,Beautiful,3103,4.50
+Indoor Heated,Instant Pot,1266,4.53
+Indoor Heated,Presto,1200,4.68
+Indoor Heated,Cuisinart,946,4.49
+Indoor Heated,Roborock,915,4.40
+Indoor Heated,Emeril,813,3.57
+Indoor Heated,Sage,638,4.35
+Indoor Heated,GE,408,3.25
+Indoor Heated,Gourmia,404,4.19
+Indoor Heated,Chefman,283,4.13
+Indoor Heated,Ooni,272,4.64
+Indoor Heated,Russell Hobbs,261,3.41
+Indoor Heated,Panasonic,217,3.53
+Indoor Heated,TOSHIBA,209,3.26
+Indoor Heated,Typhur,115,4.77
+Kitchenware,RTIC,3526,4.52
+Kitchenware,GreenPan,1734,4.25
+Kitchenware,Yeti,1573,4.62
+Kitchenware,Coleman,1390,4.04
+Kitchenware,HexClad,1257,3.02
+Kitchenware,Stanley,755,4.65
+Kitchenware,Caraway,680,3.48
+Kitchenware,Igloo,541,3.84
+Kitchenware,Our Place,519,3.48
+Kitchenware,Brumate,404,4.74
+Kitchenware,Chicago Cutlery,187,3.81
+Kitchenware,OtterBox,183,4.76
+Kitchenware,Joseph Joseph,175,4.10
+Kitchenware,Farberware,153,3.33
+Motorized,BlendJet,2172,4.08
+Motorized,Fridja,260,4.83
+Motorized,Breville,197,4.75
+Motorized,Zwilling,152,4.24
+Outdoor,Crossridge,886,4.04
+Outdoor,Meater,764,3.01
+Outdoor,Masterbuilt,683,4.03
+Outdoor,Solo Stove,339,4.78
+Outdoor,Breeo,305,4.84
+Outdoor,ThermoPro,301,2.98
+Outdoor,Pit Boss,264,4.37
+Outdoor,Weber,252,4.60
+Outdoor,Char-Broil,223,4.25
+Outdoor,Ooni,216,4.48
+Robot Vacuum,Roborock,1820,3.83
+Robot Vacuum,Dreame,1456,3.75
+Robot Vacuum,Eufy,770,3.32
+Robot Vacuum,Narwal,466,3.91
+Robot Vacuum,Roomba,380,3.02
+Robot Vacuum,iRobot,242,3.76
+Robot Vacuum,Mova,175,4.29
+Robot Vacuum,Dyson,173,3.34
+Skin Care,CurrentBody,3282,4.64
+Skin Care,Medicube,1497,4.27
+Skin Care,Dr Dennis Gross,1298,4.19
+Skin Care,Hyperice,817,4.11
+Skin Care,Therabody,638,4.16
+Skin Care,Foreo,552,4.58
+Skin Care,Sunbeam,424,3.04
+Skin Care,Lifepro,272,3.85
+Skin Care,Nooro,250,3.43
+Skin Care,NuFace,232,4.22
+Skin Care,Comfytemp,168,4.30
+Skin Care,QURE,149,3.85
+Skin Care,Adiupul,133,4.34
+Skin Care,BeautyBio,132,3.01
+Skin Care,Tommie Copper,129,4.21
+Skin Care,FORTHiQ,114,3.61
+Skin Care,BOB and BRAD,107,4.58
+Thirsti,Cirkul,3696,4.10
+Thirsti,SodaStream,2040,4.59
+Thirsti,Brita,1341,3.20
+Thirsti,Waterdrop,783,3.28
+Thirsti,PUR,752,3.09
+Thirsti,Aquasana,636,3.94
+Thirsti,Zerowater,500,3.00
+Thirsti,Berkey,419,3.15
+Thirsti,Rorra,357,4.86
+Thirsti,Aquatru,309,4.06
+Thirsti,Bluevua,261,3.85
+Thirsti,Jolie,258,2.91
+Thirsti,Culligan,180,3.72
+Thirsti,LARQ,118,3.64
+Thirsti,Canopy,115,4.44
+Thirsti,Drinkmate,103,4.37
